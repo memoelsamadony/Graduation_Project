@@ -14,7 +14,7 @@ import os
 import pandas as pd
 
 import subprocess
-from feature_extarction import *
+from Graduation_Project.feature_extarction import *
 import argparse
 
 
